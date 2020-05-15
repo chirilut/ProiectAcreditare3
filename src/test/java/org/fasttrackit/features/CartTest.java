@@ -50,7 +50,6 @@ public class CartTest extends BaseTest {
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
         // atentie ca nu ia tot timpu acelasi numar de produse , chiar daca in cos se adauga acelasi nr.
     }
-
 //TEST 5 -------------------------------------------------------------------------------------
     @Test //testarea listei de produse
   //  testu asta nu lucraza bine. cateodata pica la linia 40 din CheckoutPage!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
